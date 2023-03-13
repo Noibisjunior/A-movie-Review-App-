@@ -1,6 +1,6 @@
-### Movie Review Project README
+## Movie Review Project README
 
-## This is a movie review project that utilizes Redux Toolkit and the OMDB API. The project allows users to search for movies and view information about them, as well as leave reviews for movies they have watched.
+### This is a movie review project that utilizes Redux Toolkit and the OMDB API. The project allows users to search for movies and view information about them, as well as leave reviews for movies they have watched.
 
 ### Getting Started
 To run the project locally, follow these steps:
@@ -10,9 +10,9 @@ To run the project locally, follow these steps:
  * Create a .env file at the root of the project and add your OMDB API key like so: REACT_APP_OMDB_API_KEY=yourapikeyhere
 * Start the development server using npm start
 
-### Features
+## Features
 
-## Search Movies
+### Search Movies
 * Users can search for movies using the search bar at the top of the page. The search results will display movie posters, titles, and release years. Clicking on a movie will take the user to a page with more detailed information about the movie.
 
 * Movie Details
@@ -20,9 +20,9 @@ The movie details page displays more information about a specific movie, includi
 
 
 ## Technologies Used
-React
-Redux Toolkit
-OMDB API
+* React
+* Redux Toolkit
+* OMDB API
 
 ## Contributing
 This project is open for contributions. 

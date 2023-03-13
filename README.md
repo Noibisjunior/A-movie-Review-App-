@@ -6,14 +6,16 @@
 To run the project locally, follow these steps:
 
 ## Clone this repository to your local machine
-Install dependencies using npm install
-Create a .env file at the root of the project and add your OMDB API key like so: REACT_APP_OMDB_API_KEY=yourapikeyhere
-Start the development server using npm start
-Features
-Search Movies
-Users can search for movies using the search bar at the top of the page. The search results will display movie posters, titles, and release years. Clicking on a movie will take the user to a page with more detailed information about the movie.
+**Install dependencies using npm install
+ ** Create a .env file at the root of the project and add your OMDB API key like so: REACT_APP_OMDB_API_KEY=yourapikeyhere
+** Start the development server using npm start
 
-Movie Details
+### Features
+
+## Search Movies
+** Users can search for movies using the search bar at the top of the page. The search results will display movie posters, titles, and release years. Clicking on a movie will take the user to a page with more detailed information about the movie.
+
+** Movie Details
 The movie details page displays more information about a specific movie, including its title, poster, release year, runtime, genre, plot, and user reviews. Users can also leave their own review for the movie on this page.
 
 
